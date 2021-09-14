@@ -1,4 +1,5 @@
-# thematrix
+# The Matrix
+
 
 ## Demo
-[Demo](https://enesbuyuk.github.io/thematrix/index.html)
+[Demo Url](https://enesbuyuk.github.io/thematrix/index.html)
