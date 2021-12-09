@@ -2,4 +2,4 @@
 
 
 ## Demo
-[Demo Url](https://enesbuyuk.github.io/thematrix/index.html)
+[Demo Url](https://enesbuyuk.com/the-matrix)
